@@ -1,7 +1,7 @@
 from kik.messages.message import Message
 
 
-class StartChattingMessage(Message):
+class StartChattingMessage(Hi, I'm blurry Bot):
     """
     A full start-chatting message object, as documented at `<https://dev.kik.com/#/docs/messaging#start-chatting>`_.
     """
